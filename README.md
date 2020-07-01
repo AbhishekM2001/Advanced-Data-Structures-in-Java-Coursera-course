@@ -20,3 +20,13 @@ Following files are to be used to do the assignments for Advanced Data Structure
 * [roadgraph.MapGraph.java](https://github.com/AbhishekM2001/Advanced-Data-Structures-in-Java-Coursera-course/blob/master/src/roadgraph/MapGraph.java) </br>
 * [roadgraph.MapNode.java](https://github.com/AbhishekM2001/Advanced-Data-Structures-in-Java-Coursera-course/blob/master/src/roadgraph/MapNode.java) </br>
 * [roadgraph.MapEdge.java](https://github.com/AbhishekM2001/Advanced-Data-Structures-in-Java-Coursera-course/blob/master/src/roadgraph/MapTester.java) </br>
+
+## Setup
+
+Importing Project into eclipse:
+
+1. Create a new Java Project in your workspace
+2. Import the starter files: File -> Import -> Select "File System" -> Next -> Browse and set root directory to folder contents of zip were extracted to -> Finish
+
+Feel free to use another IDE.
+You can also import the eclipse project in netbeans(another IDE).
