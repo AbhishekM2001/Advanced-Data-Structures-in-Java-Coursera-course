@@ -1,6 +1,6 @@
 # Advanced-Data-Structures-in-Java-Coursera-course
 
-Assignments for Advanced Data Structures in Java on Coursera
+Following files are to be used to do the assignments for Advanced Data Structures in Java on Coursera.
 
 ## **Week 2** 
 ### Project:Implementing Basic Graphs
